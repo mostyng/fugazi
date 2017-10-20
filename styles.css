@@ -1,0 +1,31 @@
+body{
+	letter-spacing: -1px;
+
+}
+
+
+h1 {
+	font-family: Times New Roman;
+	text-transform: uppercase;
+	color: black;
+	font-size: 36px;
+
+	padding-left: 5%;
+}
+
+p {
+	font-family: Times New Roman;
+
+	padding-left: 5%;
+	font-size: 36px;
+	color: black;
+	line-height: 1.2;
+}
+
+a{
+	color: red;
+}
+
+a:hover{
+	color: black;
+}
